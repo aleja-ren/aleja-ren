@@ -1,6 +1,6 @@
 ### Hi, I'm Alejandra!
 
-💻 Computer science and statistics student at the [University of Valladolid](https://www.inf.uva.es/indat/) (Spain).<br>
+💻 Computer science and statistics student at the [University of Valladolid](https://www.inf.uva.es/en/indat/) (Spain).<br>
 📊 Data enthusiast, passionate about turning raw data into actionable insights.<br>
 🚀 Always eager to learn new technologies and languages.<br>
 🔧 Working on projects that combine software and statistics and doing small conferences to inspire new coders!!!<br>
